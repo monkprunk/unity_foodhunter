@@ -1,4 +1,10 @@
 sceneSetups:
+- path: Assets/Screen/StartMenu.unity
+  isLoaded: 1
+  isActive: 0
 - path: Assets/Screen/screen001.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Screen/MainMenu.unity
   isLoaded: 1
   isActive: 1

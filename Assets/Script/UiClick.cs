@@ -19,7 +19,7 @@ public class UiClick : MonoBehaviour
 			case 1:
 				//Debug.Log("Fight");
 				_CanvasStartMenu.gameObject.SetActive(false);
-				SceneManager.LoadScene("Fight");
+				SceneManager.LoadScene("MainMenu");
 				break;
 			case 2:
 				break;
